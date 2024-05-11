@@ -57,7 +57,7 @@ Contributions are welcome! If you'd like to contribute to Swell Match, please fo
 
 ## Credits
 
-Swell Match is developed and maintained by [Bintang Tobing](https://github.com/bintangjtobing).
+Swell Match is developed and maintained by [Bintang Tobing](https://github.com/bintangjtobing) and [Bahari](https://github.com/baharihari49).
 
 ## License
 
